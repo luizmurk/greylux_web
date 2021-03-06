@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ennBee/styleSheet.dart';
+import 'package:lumyvest/styleSheet.dart';
 
 class PullUpCard extends StatelessWidget {
   @override

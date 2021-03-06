@@ -1,7 +1,7 @@
-import 'package:ennBee/pages/landing.dart';
+import 'package:lumyvest/pages/landing.dart';
 import 'package:flutter/material.dart';
-import 'package:ennBee/routes.dart';
-import 'package:ennBee/screens/splash/splash_screen.dart';
+import 'package:lumyvest/routes.dart';
+import 'package:lumyvest/screens/splash/splash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'ennBee',
+      title: 'ennBeee',
       //theme: theme(),
       // home: SplashScreen(),
       // We use routeName so that we dont need to remember the name

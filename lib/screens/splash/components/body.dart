@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ennBee/constants.dart';
-import 'package:ennBee/size_config.dart';
+import 'package:lumyvest/constants.dart';
+import 'package:lumyvest/size_config.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // This is the best practice

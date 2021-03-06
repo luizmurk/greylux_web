@@ -5,12 +5,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_paystack/flutter_paystack.dart';
 import 'package:http/http.dart' as http;
-import 'package:ennBee/styleSheet.dart';
+import 'package:lumyvest/styleSheet.dart';
 
-import 'package:ennBee/data_management/databases.dart';
+import 'package:lumyvest/data_management/databases.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:ennBee/styleSheet.dart';
+import 'package:lumyvest/styleSheet.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

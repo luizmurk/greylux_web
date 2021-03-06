@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ennBee/size_config.dart';
-import 'package:ennBee/styleSheet.dart';
+import 'package:lumyvest/size_config.dart';
+import 'package:lumyvest/styleSheet.dart';
 
 const kPrimaryColor = const Color(0xFF03045e);
 const kPrimaryLightColor = Color(0xFFFFECDF);

@@ -1,6 +1,6 @@
-import 'package:ennBee/pages/landing.dart';
+import 'package:lumyvest/pages/landing.dart';
 import 'package:flutter/widgets.dart';
-import 'package:ennBee/screens/splash/splash_screen.dart';
+import 'package:lumyvest/screens/splash/splash_screen.dart';
 
 // We use name route
 // All our routes will be available here

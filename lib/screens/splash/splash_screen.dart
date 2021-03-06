@@ -1,8 +1,8 @@
-import 'package:ennBee/pages/forgotPassword.dart';
+import 'package:lumyvest/pages/forgotPassword.dart';
 import 'package:flutter/material.dart';
-import 'package:ennBee/screens/splash/components/body.dart';
-import 'package:ennBee/size_config.dart';
-import 'package:ennBee/styleSheet.dart';
+import 'package:lumyvest/screens/splash/components/body.dart';
+import 'package:lumyvest/size_config.dart';
+import 'package:lumyvest/styleSheet.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SplashScreen extends StatefulWidget {

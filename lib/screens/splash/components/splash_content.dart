@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ennBee/styleSheet.dart';
+import 'package:lumyvest/styleSheet.dart';
 
 import '../../../constants.dart';
 import '../../../size_config.dart';

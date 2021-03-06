@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">474510445434-3v64udodihs81g8ecjelbstb119jikd0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">474510445434</string>
+    <string name="google_api_key" translatable="false">AIzaSyDx7jO5NLMUfghyisxIiR6YaulFqCpeNYE</string>
+    <string name="google_app_id" translatable="false">1:474510445434:android:3c72e19169ed4508ef64c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDx7jO5NLMUfghyisxIiR6YaulFqCpeNYE</string>
+    <string name="google_storage_bucket" translatable="false">ennbee-c18c3.appspot.com</string>
+    <string name="project_id" translatable="false">ennbee-c18c3</string>
+</resources>

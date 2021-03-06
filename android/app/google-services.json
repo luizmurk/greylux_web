@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474510445434",
+    "project_id": "ennbee-c18c3",
+    "storage_bucket": "ennbee-c18c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474510445434:android:3c72e19169ed4508ef64c3",
+        "android_client_info": {
+          "package_name": "com.ennbee.moonman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474510445434-3v64udodihs81g8ecjelbstb119jikd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7jO5NLMUfghyisxIiR6YaulFqCpeNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474510445434-3v64udodihs81g8ecjelbstb119jikd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
